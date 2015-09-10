@@ -1,7 +1,7 @@
 ---
     layout: page
     title: Post by Category
-    permalink: {{ site.baseurl }}/categoryview/
+    permalink: /categoryview/
     sitemap: false
 ---
     <div>
